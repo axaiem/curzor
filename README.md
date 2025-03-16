@@ -2,6 +2,17 @@
 
 A simple text editor built with **C++ and Qt**. This project is designed to help improve C++ skills while learning Qt for GUI development.  
 
+### Features list:
+1. [ ] Basic editor with create new text file and save option.
+2. [ ] Read the existing text file.
+3. [ ] Search Option  
+    - [ ] 3.1 Find and Replace  
+    - [ ] 3.2 Highlight all occurrences  
+    - [ ] 3.3 Highlight in scroll bar  
+    - [ ] 3.4 Add regex search (case-sensitive search)  
+4. [ ] Formatting text
+    - [ ] 4.1 tbd
+
 ---
 
 ## **1. Setup on macOS**  
